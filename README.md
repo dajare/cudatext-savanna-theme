@@ -2,7 +2,7 @@
 
 This is a theme for the [CudaText](https://github.com/Alexey-T/CudaText) editor.
 
-It is based on the “[Atelier Savanna](https://github.com/tinted-theming/schemes/blob/spec-0.11/base16/atelier-savanna-light.yaml)” theme by [Bram de Haan](https://atelierbramdehaan.nl/); the palette can be conveniently viewed in this [Base16 Scheme Viewer](https://nico-i.github.io/scheme-viewer/base16/#atelier-savanna-light).
+It is based on the “[Atelier Savanna](https://github.com/tinted-theming/schemes/blob/spec-0.11/base16/atelier-savanna-light.yaml)” theme by [Bram de Haan](https://atelierbramdehaan.nl/); the palette can be conveniently viewed at the [original author’s website](https://atelierbram.github.io/syntax-highlighting/atelier-schemes/savanna/).
 
 At present, only the “light” theme is available.
 
